@@ -43,7 +43,7 @@ The OpenHammer contract is an ERC-1155 compliant smart contract on the Sepolia T
 - **URI Functionality**: The contract implements a custom URI function to generate token metadata URIs based on token IDs.
 
 ## Token URI
-s
+
 The URI function in the contract generates metadata URIs for the Hammer and Open Apes tokens. Each token's metadata can be accessed using its respective token ID appended to the base URI.
 
 - **Hammer Token URI**: `https://ipfs.io/ipfs/QmUPabH2yncKtRX536tVMd14VEo4RpUF15ATsVw8n3ryH1/0.json`
